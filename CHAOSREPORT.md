@@ -1,9 +1,9 @@
 Chaos Report 
 ==============
-## @author David Luong
-## @course ISTE-422
-## @section 01
-## @date 1/15/17
+**@author David Luong**
+**@course ISTE-422**
+**@section 01**
+**@date 1/15/17**
 
 ### British Airways software failure
 
